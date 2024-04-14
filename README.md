@@ -1,5 +1,5 @@
 - 👋 Hi, I'm currently a student at Jensen Yrkeshögskola in Gothenburg.
-- 👀 My main interests revolves around learning new tech & new concepts, personal development, excercise, food, biochemistry and pharmacology.
+- 👀 My main interests revolves around learning new tech & concepts, personal development, excercise, food, biochemistry and pharmacology.
 - 🌱 I'm currently focusing on learning Frontend development but aiming to educate myself within fullstack.
 
 - ⚡ Fun fact: "Do, or do not. There is is no try" - Yoda
