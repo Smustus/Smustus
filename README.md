@@ -2,7 +2,7 @@
 - 👀 My main interests revolves around learning new tech & new concepts, personal development, excercise, food, biochemistry and pharmacology.
 - 🌱 I'm currently focusing on learning Frontend development but aiming to educate myself within fullstack.
 
-- ⚡ Fun fact: "Do, or do not. There's is no try" - Yoda
+- ⚡ Fun fact: "Do, or do not. There is is no try" - Yoda
 
 <!---
 Smustus/Smustus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
