@@ -1,4 +1,4 @@
-- 👋 Hi, I'm currently a Frontend student at Jensen Yrkeshögskola (Higher Vocational) in Gothenburg.
+- 👋 Hi, I'm a recently graduated Frontend student.
 - 👀 My main interests revolves around learning new tech & concepts, personal development, excercise, food, biochemistry and pharmacology.
 - 🌱 I'm currently focusing on Frontend development but working fullstack on projects.
 
