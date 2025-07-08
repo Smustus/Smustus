@@ -1,6 +1,6 @@
-- 👋 Hi, I'm a recently graduated Frontend student.
-- 👀 My main interests revolves around learning new tech & concepts, personal development, excercise, food, biochemistry and pharmacology.
-- 🌱 I'm currently focusing on Frontend development but working fullstack on projects.
+- 👋 Hi, I'm a recently graduated Frontend developer.
+- 👀 My main interests revolves around learning new tech & concepts, excercise, food, biochemistry and pharmacology.
+- 🌱 Currently focusing on Frontend development whilst working fullstack on projects.
 
 - ⚡ Fun fact: A bright fictional character once said, "Do, or do not. There is is no try" 
 
